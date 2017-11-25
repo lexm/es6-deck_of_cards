@@ -1,0 +1,9 @@
+{
+  "name": "deck-of-cards",
+  "version": "0.0.0",
+  "description": "DeckOfCards",
+  "main": "app.js",
+  "author": {
+    "name": "lexmy"
+  }
+}
